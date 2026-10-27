@@ -5,7 +5,7 @@ Former enterprise SaaS account executive building practical projects at the inte
 ## Selected projects
 
 - [Dashboard Archive](https://github.com/socabrera21/dashboard-archive) — A local-first macOS app for finding and organizing web dashboards. Built with React, TypeScript, and Electron; fresh installs scan only folders the user chooses.
-- [Projectmanagement](https://github.com/socabrera21/Projectmanagement) — A toolkit for interview preparation, agent orchestration, and multi-model workflows.
+- [Project Management & Agent Workflow Lab](https://github.com/socabrera21/Projectmanagement) — A working collection of agent frameworks, skills, and multi-model workflow experiments, alongside community and upstream projects.
 
 ## Focus areas
 
